@@ -7,7 +7,7 @@ Nome: Ane Madjarian Viana
 Matricula: 890191
 
 ## Tela de inspeção com navegador
-
+<img src="ferramentasdodesenvolvedor.png" alt="" width="360px">
 
 ## Tela de projeto no Replit
-
+<img src="replit.png"> alt="" width="360px">
